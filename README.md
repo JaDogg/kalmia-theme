@@ -18,4 +18,11 @@ Feel free to use it on your projects, don't forget to include the license!
 
 ![high-contrast.png](./images/high-contrast.png)
 
+## Kalmia-J for IntelliJ / CLion
+
+![kalmia-j](./images/kalmia-j.png)
+
 **Enjoy!**
+
+Copyright (c) 2024 Qexat,
+I have added just Kalmia-J to this fork.
