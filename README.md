@@ -30,4 +30,4 @@ Feel free to use it on your projects, don't forget to include the license!
 
 Copyright (c) 2024 Qexat,
 
-I have just added Kalmia-J and Kalmia-JB to this fork.
+I have just added Kalmia-J.* themes to this fork.
