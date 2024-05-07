@@ -22,7 +22,12 @@ Feel free to use it on your projects, don't forget to include the license!
 
 ![kalmia-j](./images/kalmia-j.png)
 
+### Kalmia-JB variant
+
+![kalmia-jb](./images/kalmia-jb.png)
+
 **Enjoy!**
 
 Copyright (c) 2024 Qexat,
-I have added just Kalmia-J to this fork.
+
+I have just added Kalmia-J and Kalmia-JB to this fork.
